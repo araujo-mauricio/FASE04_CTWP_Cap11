@@ -78,8 +78,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-## Integrantes:
+## Integrantes
 
-Mauricio Araujo - RM566040
-Igor Herson - RM563980
+- Mauricio Araújo – RM566040
+- Igor Herson – RM563980
 
