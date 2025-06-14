@@ -1,18 +1,16 @@
-# 🌾 Classificação de Grãos de Trigo com Machine Learning
+# Classificação de Grãos de Trigo com Machine Learning
 
 > **Entrega Fase 04 / CTWP / Cap11 - FIAP**
->
-> Salvador Dalí ficaria orgulhoso dessa obra de IA: surreal na precisão, bela na análise! 🎨🧙‍♂️
 
 ---
 
-## 📌 Descrição do Projeto
+## Descrição do Projeto
 
 Este projeto aplica algoritmos de aprendizado supervisionado para classificar variedades de sementes de trigo com base em características físicas, utilizando a biblioteca `Scikit-learn`. Toda a análise segue a metodologia CRISP-DM, contemplando desde a exploração dos dados até a otimização dos modelos.
 
 ---
 
-## 📂 Estrutura de Arquivos
+## Estrutura de Arquivos
 
 - `seeds_dataset.csv` → Conjunto de dados tratado (210 amostras, 8 atributos).
 - `classificacao_graos_seeds_final.ipynb` → Notebook final com todas as etapas.
@@ -22,7 +20,7 @@ Este projeto aplica algoritmos de aprendizado supervisionado para classificar va
 
 ---
 
-## 📊 Técnicas Utilizadas
+## Técnicas Utilizadas
 
 - Análise exploratória de dados (EDA)
 - Estatísticas descritivas
@@ -38,7 +36,7 @@ Este projeto aplica algoritmos de aprendizado supervisionado para classificar va
 
 ---
 
-## 📈 Resultados Finais
+## Resultados Finais
 
 | Modelo         | Acurácia | F1-Score (Macro) |
 |----------------|----------|-------------------|
@@ -49,13 +47,13 @@ Este projeto aplica algoritmos de aprendizado supervisionado para classificar va
 
 ---
 
-## 🔎 Contextualização
+## Contextualização
 
 Este estudo pode ser aplicado por cooperativas agrícolas e indústrias de alimentos para automatizar o processo de classificação de grãos, garantindo maior eficiência, rapidez e redução de erros manuais.
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 1. Abra o notebook `classificacao_graos_seeds_final.ipynb` em um ambiente Jupyter ou Google Colab.
 2. Certifique-se de ter o arquivo `seeds_dataset.csv` na mesma pasta.
@@ -63,7 +61,7 @@ Este estudo pode ser aplicado por cooperativas agrícolas e indústrias de alime
 
 ---
 
-## 🧮 Requisitos Técnicos
+## Requisitos Técnicos
 
 - Python >= 3.8
 - pandas
@@ -80,5 +78,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-**Desenvolvido com zelo, café e pitadas de IA. ☕🤖**
+## Integrantes:
+
+Mauricio Araujo - RM566040
+Igor Herson - RM563980
 
